@@ -93,11 +93,11 @@ the community, **Congratulations!** You are now an official contributor to AppFl
 
 ## Translations 🌎🗺
 
-[![translation badge](https://inlang.com/badge?url=github.com/AppFlowy-IO/AppFlowy)](https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy?ref=badge)
+[![translation badge](https://inlang.com/badge?url=github.com/AppFlowy-IO/AppFlowy)](./project.inlang/settings.json)
 
 To add translations, you can manually edit the JSON translation files in `/frontend/resources/translations`, use
-the [inlang online editor](https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy), or
-run `npx inlang machine translate` to add missing translations.
+the checked-in [inlang project settings](./project.inlang/settings.json) with your preferred inlang tool, or run
+`npx inlang machine translate` to add missing translations.
 
 ## Join the community to build AppFlowy together
 
